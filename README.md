@@ -1,2 +1,2 @@
 # Statistic-Machine-Learning
-This repository is about implementation of some machine learning implementation by using python
+This branch is about implementation of different MAB learners
